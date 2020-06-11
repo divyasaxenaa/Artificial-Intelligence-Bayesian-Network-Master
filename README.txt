@@ -1,6 +1,5 @@
 
 Divya Saxena
-UTA Id : 1001773376
 
 Pragramming language
 -----------------------
